@@ -1,0 +1,29 @@
+{
+  "name": "eat-da-burger",
+  "version": "1.0.0",
+  "description": "App that lets users choose the burger they'd like to eat and then eat it",
+  "main": "index.js",
+  "scripts": {
+    "test": "Testing..."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johudsonRx/Burger.git"
+  },
+  "keywords": [
+    "Burger"
+  ],
+  "author": "Josh Hudson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/johudsonRx/Burger/issues"
+  },
+  "homepage": "https://github.com/johudsonRx/Burger#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "mysql": "^2.12.0"
+  }
+}
